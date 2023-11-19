@@ -13,7 +13,7 @@ console.log(bank);
 const user =["kunal","maa","papa","bhai"];
 
 user[1] ="Kunal";
-user.push("neha");
+user.push("");
 
 // console.log(user);
 
